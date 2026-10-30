@@ -1,0 +1,80 @@
+{
+  "01_cafe.png": {
+    "vendor": "NORTHSTAR CAFE",
+    "date": "2026-06-15",
+    "currency": "INR",
+    "subtotal": 500,
+    "tax": 25,
+    "total": 525,
+    "item_count": 3,
+    "line_item_count": 2,
+    "items": [
+      {
+        "name": "Latte",
+        "quantity": 2,
+        "unit_price": 150,
+        "amount": 300
+      },
+      {
+        "name": "Sandwich",
+        "quantity": 1,
+        "unit_price": 200,
+        "amount": 200
+      }
+    ]
+  },
+  "02_stationery.png": {
+    "vendor": "PAPER TRAIL",
+    "date": "2026-06-16",
+    "currency": "INR",
+    "subtotal": 280,
+    "tax": 14,
+    "total": 294,
+    "item_count": 5,
+    "line_item_count": 2,
+    "items": [
+      {
+        "name": "Notebook",
+        "quantity": 3,
+        "unit_price": 80,
+        "amount": 240
+      },
+      {
+        "name": "Pen",
+        "quantity": 2,
+        "unit_price": 20,
+        "amount": 40
+      }
+    ]
+  },
+  "03_grocery.png": {
+    "vendor": "GREEN BASKET",
+    "date": "2026-06-17",
+    "currency": "INR",
+    "subtotal": 400,
+    "tax": 20,
+    "total": 420,
+    "item_count": 5,
+    "line_item_count": 3,
+    "items": [
+      {
+        "name": "Apples",
+        "quantity": 2,
+        "unit_price": 120,
+        "amount": 240
+      },
+      {
+        "name": "Bread",
+        "quantity": 1,
+        "unit_price": 60,
+        "amount": 60
+      },
+      {
+        "name": "Milk",
+        "quantity": 2,
+        "unit_price": 50,
+        "amount": 100
+      }
+    ]
+  }
+}

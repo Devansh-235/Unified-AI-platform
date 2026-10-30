@@ -1,0 +1,26 @@
+NORTHSTAR DEMO COMPANY — EMPLOYEE HANDBOOK
+Version: 2026-01-01. This is fictional sample data for software testing.
+
+ANNUAL LEAVE POLICY
+Full-time employees receive 24 days of paid annual leave per calendar year. Submit an annual leave request in the HR portal at least five working days before the first day of leave. A manager must approve the request. Up to five unused days may carry over into the next year, but they must be used by March 31. Public holidays do not reduce the annual leave balance.
+
+SICK LEAVE
+Employees receive 10 days of paid sick leave each year. Notify your manager before the start of the working day where possible. A medical certificate is required for absences longer than three consecutive working days. Sick leave does not carry over.
+
+REMOTE WORK
+Employees may work remotely for up to three days per week after manager approval. Core collaboration hours are 10:00 to 15:00 local team time. Customer-facing roles may require additional office attendance. Company equipment must use device encryption and multi-factor authentication.
+
+EXPENSE REIMBURSEMENT
+Submit expense claims within 30 calendar days of purchase. Attach an itemized receipt showing vendor, date, purchased items, tax and total. The manager approves legitimate business expenses before Finance reimburses them in the next payroll cycle. Personal purchases and alcohol are not reimbursable.
+
+BUSINESS TRAVEL
+Travel requires manager approval before booking. Domestic hotel reimbursement is capped at INR 6,000 per night, excluding tax. Meals are capped at INR 1,200 per day. Economy class is required for flights shorter than six hours. Retain all receipts and submit the travel claim within 30 days.
+
+TRAINING AND DEVELOPMENT
+Each employee has an annual learning allowance of INR 20,000. Courses must relate to the employee's role or an agreed development plan. Obtain manager approval before paying. Unused learning allowance does not carry forward to the following year.
+
+INFORMATION SECURITY
+Never share passwords or API keys. Store credentials in an approved secret manager. Report suspected phishing to the IT service desk immediately. Customer data must not be uploaded to unapproved external services. Lock your screen whenever leaving your desk.
+
+WORKING HOURS
+The normal work week is Monday to Friday, eight hours per day. A flexible start between 08:00 and 10:00 is allowed with manager agreement. Overtime requires prior written approval. Contact HR for accommodations or part-time schedules.
